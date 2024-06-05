@@ -1,0 +1,20 @@
+repo_name: zhenyuyang0/obsidian-css-snippets
+report_id: df27c929818c1a48c1fbbffb8f5276d7
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-05T05:04:34+00:00'
+requested_by: zhenyuyang0
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zhenyuyang0/obsidian-css-snippets
+  detection_source: Repo Metadata
